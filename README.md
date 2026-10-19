@@ -1,8 +1,12 @@
 # Sentiment Analysis
 
+![Most Frequent words](banner.jpg)
+
 This project explores sentiment classification for text reviews using natural language processing (NLP) and machine learning. It focuses on identifying whether a given review is positive, negative, or neutral, and compares several classifier models trained on a movie-review dataset.
 
 ## Project overview
+
+![Sentiment Analysis](poster_alt.png)
 
 The workflow in this project includes:
 
